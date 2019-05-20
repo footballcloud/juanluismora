@@ -2,34 +2,30 @@
 layout: default
 ---
 
-
-
 ## Profile
 
-> Football coach Level 3 Sport Director
+> Football Coach Level 3 Sport Director (RFEF)
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
-![Octocat](https://pbs.twimg.com/profile_images/1034213562753994754/7M9-xAUG_400x400.jpg)
 
 ![Branching](https://pbs.twimg.com/media/DptEdjdX4AEZBNb.jpg)
 
 ## My FootBallCloud
 
-#### Director
+### Director
 
 *   6 Years experience - Teacher of tactic, methodology and sport management
 
-##### Educator
+### Educator
 
 1.  17/18 - Director School of Soccer Coaches ( Experience CHINA)
 2.  15/16/17/18 - Football Director C.F Fuenlabrada Coordinating 32 Teams, 500 Players, 70 Coaches
 3.  5 Years experience - Teacher of tactic, methodology and sport management
 4.  6 Years experience - Teacher of tactic, methodology and sport management
 
-###### First Coach
+### First Coach
 
-| Temporada    | Club                         | Categoría      | Mérito                  |
+| Season       | Club                         | Category       | Merit                   |
 |:-------------|:-----------------------------|:---------------|:------------------------|
 | 18/19        | CD Internacional de Móstoles | 1º Regional    | Promotion to Preferente |
 | 18/19        | Fundación Atlético de Madrid |                |                         |
@@ -40,6 +36,8 @@ layout: default
 
 
 ```
-<jmoras07@gmail.com>
+Los grandes éxitos siempre empezaron siendo un sueño.
+[jmoras07@gmail.com](mailto:jmoras07@gmail.com)
+(+34) 660199328
 ```
 
