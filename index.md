@@ -5,8 +5,7 @@ layout: default
 ## Profile
 
 > Football Coach Level 3 Sport Director (RFEF)
->
-> Lider, Comunicador, Coherente, Cercano, Profesional.
+> 
 
 
 ![Branching](https://pbs.twimg.com/media/DptEdjdX4AEZBNb.jpg)
