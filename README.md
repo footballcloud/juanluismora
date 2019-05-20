@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# ¿Mis cualidades?
 
-You can use the [editor on GitHub](https://github.com/footballcloud/juanluismora/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Carácter, Talento, Dominio del espacio, Sacrificio, Sencillez.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# ¿Donde me puedes encontrar?
 
-### Markdown
+[@facebook](https://www.facebook.com/aitor.carrillo.359)
+[@instagram](https://www.instagram.com/carrilloaitor/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Mi FootballCloud
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Inter de Mostoles
 
-- Bulleted
-- List
+- [Centrocampista - 18/19] (1º Regional)
+- Ascenso a preferente
 
-1. Numbered
-2. List
+# EMF Moraleja 
 
-**Bold** and _Italic_ and `Code` text
+- [Entrenador - 18/19] (Primera Benjamin)
 
-[Link](url) and ![Image](src)
+# Arroyomolinos
+
+- [Centrocampista - 17/18] (1º Regional)
+
+# A.D Alcorcón 
+
+- [Centrocampista - 14/15/16/17] (Juvenil A,B,C)
+- [División de Honor]
+- [Copa de Federación Madrileña]  
+- [Liga Nacional]
+- [Primera división Autonómica]
+
+# A.D Alcorcón 
+
+- [Centrocampista - 12/13/14] (Cadete A,B)
+- [Primera división autómica]
+- [Preferente]
+
+# A.D Alcorcón 
+
+- [Centrocampista - 11/12] (Infantil A)
+- [División de Honor]
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/footballcloud/juanluismora/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

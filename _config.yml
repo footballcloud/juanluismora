@@ -1,9 +1,15 @@
 theme: jekyll-theme-modernist
 
+
 title: Juan Luis Mora
 description: Los grandes éxitos siempre empezaron siendo un sueño.
 show_downloads: false
 github:
   is_user_page: false
-  owner_url: https://twitter.com/jmoras07
+  repository_url: https://twitter.com/jmoras07
   is_project_page: false
+  github_name: jmoras07
+  
+footballcloud:
+  url: https://footballcloud.net
+  editor: pedrogarcia
